@@ -1,18 +1,8 @@
 # Artificial Intelligence Lab Works
 
-This repository contains notebooks, organized into two main categories: **Classical AI Search & Optimization Algorithms** and **Machine Learning Foundations**.
+This repository contains notebooks, organized into two main categories: **Machine Learning Foundations** and **Classical AI Search & Optimization Algorithms**.
 
 ---
-
-## 📁 Classical AI Search & Optimization Algorithms
-
-Covers foundational AI search, adversarial game-playing, and optimization algorithms.
-
-| File | Description |
-|---|---|
-| `A_Star_Algorithm.py` | Implements the A* search algorithm to find the shortest path between two locations using a graph with heuristic values, reading input from a text file. |
-| `genetic_algorithm.py` | Implements a genetic algorithm (population initialization, fitness evaluation, parent selection, crossover, mutation) to optimize a simple trading strategy (stop-loss, take-profit, trade size). |
-| `alpha_beta_pruning.py` | Implements the Minimax algorithm with alpha-beta pruning, applied to a simulated chess strength-comparison scenario (Task 1) and a "mind control" decision-analysis variant (Task 2). |
 
 ## 📁 Machine Learning Foundations
 
@@ -25,6 +15,18 @@ Covers the core data science and machine learning pipeline — from understandin
 | `Regression_and_Classification_GradientDescent.py` | Implements linear, polynomial, and logistic regression from scratch using symbolic differentiation (`sympy`) and gradient descent, then compares results with `scikit-learn`'s built-in implementations. |
 | `Intro_to_Neural_Network.py` | Builds a neural network from scratch (forward/backward propagation, activation functions, loss functions, optimizers) and compares it with a TensorFlow/Keras implementation on MNIST and Boston Housing datasets. |
 | `Model_Evaluation.py` | Techniques and metrics for evaluating trained ML models. |
+
+
+
+## 📁 Classical AI Search & Optimization Algorithms
+
+Covers foundational AI search, adversarial game-playing, and optimization algorithms.
+
+| File | Description |
+|---|---|
+| `A_Star_Algorithm.py` | Implements the A* search algorithm to find the shortest path between two locations using a graph with heuristic values, reading input from a text file. |
+| `genetic_algorithm.py` | Implements a genetic algorithm (population initialization, fitness evaluation, parent selection, crossover, mutation) to optimize a simple trading strategy (stop-loss, take-profit, trade size). |
+| `alpha_beta_pruning.py` | Implements the Minimax algorithm with alpha-beta pruning, applied to a simulated chess strength-comparison scenario (Task 1) and a "mind control" decision-analysis variant (Task 2). |
 
 ---
 
