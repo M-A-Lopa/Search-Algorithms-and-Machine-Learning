@@ -28,8 +28,3 @@ Covers the core data science and machine learning pipeline — from understandin
 
 ---
 
----
-
-## Notes
-
-- All original code, variable names, function signatures, and structure are preserved exactly as submitted for coursework — only file/folder organization and documentation have been added.
