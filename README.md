@@ -1,6 +1,6 @@
 # Artificial Intelligence Lab Works
 
-This repository contains lab exercises and assignments from an Artificial Intelligence course, organized into two main categories: **Machine Learning Foundations** and **Classical AI Search & Optimization Algorithms**.
+This repository contains notebooks, organized into two main categories: **Classical AI Search & Optimization Algorithms** and **Machine Learning Foundations**.
 
 ---
 
