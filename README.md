@@ -1,4 +1,4 @@
-# Artificial Intelligence Lab Works
+# Artificial Intelligence & Machine Learning Works
 
 This repository contains notebooks, organized into two main categories: **Machine Learning Foundations** and **Classical AI Search & Optimization Algorithms**.
 
